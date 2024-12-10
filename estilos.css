@@ -1,4 +1,4 @@
-/* General */
+
 body {
     background: linear-gradient(135deg, #ff4d4d, #ff0000);
     font-family: 'Arial', sans-serif;
@@ -6,7 +6,7 @@ body {
     color: rgb(255, 255, 255);
 }
 
-/* Encabezado */
+
 header {
     text-align: center;
     padding: 20px 0;
@@ -27,7 +27,7 @@ header h3 {
     margin-top: 0;
 }
 
-/* Barra de navegación */
+
 nav ul {
     display: flex;
     justify-content: center;
@@ -67,7 +67,7 @@ h2 {
     margin-bottom: 10px;
 }
 
-/* Botón de jugar */
+
 label.paper-btn {
     background: yellow;
     color: black;
@@ -84,7 +84,7 @@ label.paper-btn:hover {
     box-shadow: 0 4px 10px rgba(255, 255, 0, 0.7);
 }
 
-/* Modal */
+
 .modal {
     background: rgba(0, 0, 0, 0.8);
     color: white;
@@ -97,14 +97,14 @@ label.paper-btn:hover {
     text-align: center;
 }
 
-/* Imagen principal */
+
 img.no-border {
     width: 100%;
     border-radius: 10px;
     margin: 20px 0;
 }
 
-/* Alertas */
+
 .alert {
     background: #ffcc00;
     color: black;
